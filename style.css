@@ -161,12 +161,19 @@ span {
 }
 
 .doces{
-  background-color: pink;  
+  background-color:white ;  
   color:#000;
 
 }
 
 .doces img{
+  width: 500px;
+  height: 20;
+  top: 10px;
+  left: -160px;
+  margin-left: 500px;
+}
+.salgados img{
   width: 500px;
   height: 20;
   top: 10px;
